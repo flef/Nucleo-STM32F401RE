@@ -17,3 +17,7 @@ You can add a Terminal view in Eclipse :
     - Download 'RXTXcomm.jar' and install it in the 'lib/ext' folder of the Java VM 
     - Download 'rxtxSerial.dll' and install it in the 'bin' folder of the Java VM
 - Restart Eclipse, Windows > Show view > Terminal > Create terminal
+
+
+Install package (default conf for boards):
+- http://gnuarmeclipse.github.io/plugins/packs-manager/
